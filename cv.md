@@ -1,5 +1,5 @@
 # Dana Shayakhmetova  
-### Phone: +420 776055647 (Telegram)
+### Phone: +420 776055647 (WhatsApp, Telegram)
 **Junior IT**
 ### Languages: 
 * HTML
@@ -8,6 +8,6 @@
 * Python
 ### Education:
 #### Unicorn University
-##### Software engineering - 2 grade
+##### Software engineering - 3 grade
 #### KazNU
 ##### Chinese-russian translator
